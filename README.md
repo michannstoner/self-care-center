@@ -1,6 +1,7 @@
 # ✨ Self Care Center ✨
 
 A solo project by Michann Stoner.
+View it in action [here](https://michannstoner.github.io/self-care-center/)!
 
 ## Overview
 
